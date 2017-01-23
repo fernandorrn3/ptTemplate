@@ -1,0 +1,342 @@
+
+
+#topo{
+
+	
+	
+	padding-bottom:10%;
+	background-image:url(img/fundo.jpg);
+	background-repeat:;
+}
+
+#logo {
+	font-family:"Courier New", Courier, monospace;
+	font-size:20px;
+	display:inline-block;
+	text-align:center;
+
+	padding-top:20px;
+	margin-left:10px;
+	color:#FFF;
+	
+}
+
+
+
+
+#navegacao{
+	background-color:transparent;
+	border-style:none;
+	padding-bottom:10px;
+	transition: linear 0.5s;
+	
+		
+}
+
+
+
+
+#links {
+	   margin-right:50px;
+      padding-top:10px;
+     font-family:"Courier New", Courier, monospace;
+	font-size:15px;
+	
+	border-radius:3px;
+	color:#FFF;
+	
+	
+}
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color:#FFF;
+	
+}
+
+
+
+#jbtron {
+	text-align:center;
+	background-color:transparent;
+	padding-bottom:;
+	margin-top:px;
+	margin-top:15%;
+	
+}
+
+#haha h1{
+	
+	text-align:center;
+	display:block;
+	color:#FFF;
+	font-family:"Courier New", Courier, monospace;
+	
+}
+
+#jbtron p {
+	color:#FFF;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+#portifolio{
+	padding-bottom:10%;
+	background-color:rgba(105,105,105,0.2);
+	color:black;
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+}
+
+
+
+.overlay {
+  position: absolute;
+  bottom: 0%;
+  left: 15px;
+  right:;
+  background-color:rgba(128,128,128,0.5);
+  overflow: hidden;
+  width: 95%;
+  height:0;
+  transition: .5s ease;
+}
+
+
+.areaImagem:hover .overlay {
+  bottom: 0;
+  height: 95%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+
+
+
+
+#portifolio img{
+	width:577px;
+	
+	margin-top:20px;
+	
+	
+
+	
+	
+	
+}
+
+
+
+
+
+#skills {
+	padding-bottom:10%;
+	background-image:url(img/fundo.jpg);
+	text-align:center;
+	color:#FFF;	
+}
+
+
+#skills h1 {
+	font-family:"Courier New", Courier, monospace;
+}
+
+
+
+#skill1 {
+}
+
+
+
+#skill1 img{
+	width:200px;
+	float:left;
+	margin:10px;
+	-webkit-filter: grayscale(100%);filter: grayscale(100%);
+	
+	
+}
+
+
+#skill1 p {
+	text-align:left;
+	margin-top:5%;
+	
+		
+}
+
+
+
+
+
+
+#skill2{
+
+	margin-top:100px;
+}
+
+
+#skill2 p {
+	text-align:left;
+	margin-top:5%;
+	
+		
+}
+
+
+
+#skill2 img{
+	width:200px;
+	
+	float:right;
+	margin:10px;
+	-webkit-filter: grayscale(100%);filter: grayscale(100%);
+}
+
+
+
+#skill3 img {
+	width:200px;
+	float:left;
+	margin:10px;
+	-webkit-filter: grayscale(100%);filter: grayscale(100%);
+	
+}
+
+#skill3{
+	
+	margin-top:100px;
+}
+
+
+
+#skill3 p {
+	text-align:left;
+	margin-top:5%;
+	
+		
+}
+
+
+
+
+
+
+#sobre {
+	background-color:rgba(105,105,105,0.2);
+}
+
+
+#sobre h2 {
+	text-align:center;
+}
+
+
+#sobre img{
+	background-color:#0C3;
+	width:400px;
+	float:left;
+	margin:10px;
+}
+
+
+#sobre p {
+	margin-top:10%;
+	
+}
+
+	
+
+#contato{
+	background-image:url(img/fundo.jpg);
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+	color:#FFF;
+	padding-bottom:10%;
+	font-size:15px;
+}
+
+
+.contato1{
+	padding-top:5%;
+}
+
+
+
+
+
+
+
+@font-face {
+	
+	   font-family: fonte1;
+	   src:url(fonts/Amarillo.otf);
+	   src:url(fonts/Amarillo.ttf);
+}
+
+@font-face {
+	font-family:fonte2;
+	src:url(fonts/DeliusUnicase-Regular.ttf);
+	   src:url(fonts/DeliusUnicase-Bold.ttf);
+}
+
+@font-face {
+	
+	   font-family: fonte3;
+	   src:url(fonts/GloriaHallelujah.ttf);
+	 
+}
+
+@font-face {
+	
+	   font-family: fonte4;
+	    src:url(fonts/IndieFlower.ttf);
+}
+
+@font-face {
+	
+	   font-family: fonte5;
+	  src:url(fonts/Lobster-Regular.ttf);
+}
+
+
+@font-face {
+	
+	   font-family: fonte6;
+	  src:url(fonts/Ranga-Bold.ttf);
+	  src:url(fonts/Ranga-Regular.ttf);
+}
+
+
+
+
+
+
+@media screen and (min-width: 100px)  and (max-width: 5000px)  {
+	
+
+
+
+	
+
+  
+}
