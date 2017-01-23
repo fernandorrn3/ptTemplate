@@ -1,12 +1,18 @@
-
+.paralax{
+   	background-image:url(img/fundo.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 #topo{
 
 	
 	
 	padding-bottom:10%;
-	background-image:url(img/fundo.jpg);
-	background-repeat:;
+	
+	
 }
 
 #logo {

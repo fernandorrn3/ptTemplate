@@ -43,51 +43,6 @@ $(document).ready(function() {
 
 
 
-  $(function() {
-
-      $('#img1').sliphover({
-		  
-          duration: 600,
-		  fontColor: 'blue',
-		  backgroundColor: "rgba(105,105,105,0.5)",
-		  
-		  
-		  
-      });
-	  
-	     $('#img2').sliphover({
-		  
-          duration: 600,
-		  fontColor: 'blue',
-		  backgroundColor: "rgba(105,105,105,0.5)",
-		  
-		  
-		  
-      });
-	  
-	     $('#img3').sliphover({
-		  
-          duration: 600,
-		  fontColor: 'blue',
-		  backgroundColor: "rgba(105,105,105,0.5)",
-		  
-		  
-		  
-      });
-	  
-	     $('#img4').sliphover({
-		  
-          duration: 600,
-		  fontColor: 'blue',
-		  backgroundColor: "rgba(105,105,105,0.5)",
-		  
-		  
-		  
-      });
-      
-  })
-	 
-
  
 	 
 
@@ -108,31 +63,6 @@ $(document).ready(function() {
 
 
 
-	
-	function paralax(){
-	
-	$(window).enllax({
-
-type: 'background',  
-
-ratio: 0, 
-direction: 'vertical' 
-});
-	
-	
-	
-	
-	$("#skil").enllax({
-
-type: 'background',  
-
-ratio: 0.5, 
-direction: 'vertical' 
-});
-	}
-	
-	
-	paralax()
 	
 	
 	function styleLink(){
